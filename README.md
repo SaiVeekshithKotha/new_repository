@@ -274,10 +274,10 @@ The Storage Server ensures efficient and secure handling of file operations in t
 ## Miscellaneous Details
 
 ### Team:
-Sai Veekshith Kotha
-Krishna Jakka
-Saketh Ayyengari
-Ananth Yegavakota
+ - Sai Veekshith Kotha
+ - Krishna Jakka
+ - Saketh Ayyengari
+ - Ananth Yegavakota
 
 
 
